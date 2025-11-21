@@ -1,4 +1,4 @@
-#include "main_admin.h"
+#include "main.h"
 
 void menuAdmin(){
     int option=-99;

@@ -1,6 +1,5 @@
 #include <iostream>
-#include "main_admin.h"
-#include "main_user.h"
+#include "main.h"
 
 using namespace std;
 
