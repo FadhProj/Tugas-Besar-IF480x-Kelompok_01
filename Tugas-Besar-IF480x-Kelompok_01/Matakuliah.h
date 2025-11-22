@@ -1,0 +1,6 @@
+#ifndef MATAKULIAH_H_INCLUDED
+#define MATAKULIAH_H_INCLUDED
+// Your parent ADT
+
+
+#endif // MATAKULIAH_H_INCLUDED

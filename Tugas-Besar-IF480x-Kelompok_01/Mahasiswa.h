@@ -1,0 +1,6 @@
+#ifndef MAHASISWA_H_INCLUDED
+#define MAHASISWA_H_INCLUDED
+// Yout Child ADT
+
+
+#endif // MAHASISWA_H_INCLUDED

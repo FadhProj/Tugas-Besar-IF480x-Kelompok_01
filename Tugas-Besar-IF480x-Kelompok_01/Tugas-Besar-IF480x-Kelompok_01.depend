@@ -1,17 +1,17 @@
 # depslib dependency file v1.0
-1763726998 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main.cpp
+1763774326 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main.cpp
 	<iostream>
-	"main_admin.h"
+	"main.h"
 
 1763724287 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\mahasiswa_1301140418.cpp
 
 1763724287 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\mahasiswa_1301140436.cpp
 
-1763732101 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main_admin.cpp
-	"main_admin.h"
+1763774326 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main_admin.cpp
+	"main.h"
 
-1763732176 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main_user.cpp
-	"main_user.h"
+1763774326 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main_user.cpp
+	"main.h"
 
 1763724287 source:c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\matakuliah_1301140418.cpp
 
@@ -33,4 +33,7 @@
 1763300504 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\matakuliah_1301140418.cpp
 
 1763300521 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\matakuliah_1301140436.cpp
+
+1763774326 c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main.h
+	<iostream>
 
