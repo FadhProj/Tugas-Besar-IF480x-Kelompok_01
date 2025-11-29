@@ -4,9 +4,9 @@ void menuUser(){
     int option=-99;
     while (option != 0) {
         system("cls");
-        cout << "============ Menu ============ " << endl;
-        cout << "|| 1. studi case 1          ||" << endl;
-        cout << "|| 2. studi case 2           ||" << endl;
+        cout << "====== Menu Studi Kasus ====== " << endl;
+        cout << "|| 1. Studi Kasus 1         ||" << endl;
+        cout << "|| 2. Studi Kasus 2         ||" << endl;
         cout << "|| .....dst                 ||" << endl;
         cout << "|| 0. back                  ||" << endl;
         cout << "============================== " << endl;
@@ -27,3 +27,6 @@ void menuUser(){
         }
     }
 }
+
+
+

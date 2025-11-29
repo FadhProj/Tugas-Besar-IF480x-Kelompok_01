@@ -4,7 +4,7 @@ void menuAdmin(){
     int option=-99;
     while (option != 0) {
         system("cls");
-        cout << "============ Menu ============ " << endl;
+        cout << "============ Menu Admin============ " << endl;
         cout << "|| 1. Parent                 ||" << endl;
         cout << "|| 2. Child                  ||" << endl;
         cout << "|| 0. back                   ||" << endl;
@@ -29,7 +29,7 @@ void menuParent(){
     int option=-99;
     while (option != 0) {
         system("cls");
-        cout << "============ Menu ============ " << endl;
+        cout << "============ Menu Parent============ " << endl;
         cout << "|| 1. insert first          ||" << endl;
         cout << "|| 2. insert last           ||" << endl;
         cout << "|| .....dst                 ||" << endl;
@@ -42,6 +42,7 @@ void menuParent(){
               cout << "you choose option 1" << endl;
               // write your code here
 
+              insertfirstparent(L,P)
               break;
            case 2  :
               cout << "you choose option 2" << endl;
@@ -59,7 +60,7 @@ void menuChild(){
     int option=-99;
     while (option != 0) {
         system("cls");
-        cout << "============ Menu ============ " << endl;
+        cout << "============ Menu Child============ " << endl;
         cout << "|| 1. insert first          ||" << endl;
         cout << "|| 2. insert last           ||" << endl;
         cout << "|| .....dst                 ||" << endl;

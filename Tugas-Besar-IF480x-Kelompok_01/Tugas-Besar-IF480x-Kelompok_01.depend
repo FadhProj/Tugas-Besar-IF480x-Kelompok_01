@@ -26,13 +26,17 @@
 1763732140 c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main_user.h
 	<iostream>
 
-1763300444 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\mahasiswa_1301140418.cpp
+1763863357 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\mahasiswa_1301140418.cpp
+	"Mahasiswa.h"
 
-1763300469 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\mahasiswa_1301140436.cpp
+1763863357 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\mahasiswa_1301140436.cpp
+	"Mahasiswa.h"
 
-1763300504 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\matakuliah_1301140418.cpp
+1763863357 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\matakuliah_1301140418.cpp
+	"Matakuliah.h"
 
-1763300521 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\matakuliah_1301140436.cpp
+1763863357 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\matakuliah_1301140436.cpp
+	"Matakuliah.h"
 
 1763774326 c:\users\putra\documents\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main.h
 	<iostream>
@@ -45,4 +49,12 @@
 
 1763767601 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main_user.cpp
 	"main.h"
+
+1763863357 d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\mahasiswa.h
+
+1763863409 source:d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\main.cpp
+	<iostream>
+	"main.h"
+
+1763863357 d:\brin\dosen\struktur data\2025\tugas-besar-if480x-kelompok_01\tugas-besar-if480x-kelompok_01\matakuliah.h
 
