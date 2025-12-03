@@ -9,8 +9,8 @@ int main()
     while (option != 0) {
         system("cls");
         cout << "============ Menu ============ " << endl;
-        cout << "|| 1. admin                 ||" << endl;
-        cout << "|| 2. User                  ||" << endl;
+        cout << "|| 1. Test Case             ||" << endl;
+        cout << "|| 2. Study Case            ||" << endl;
         cout << "|| 0. exit                  ||" << endl;
         cout << "============================== " << endl;
         cout << "Choose your option : ";
