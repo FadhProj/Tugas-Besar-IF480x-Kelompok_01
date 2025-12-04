@@ -42,7 +42,6 @@ void menuParent(){
               cout << "you choose option 1" << endl;
               // write your code here
 
-              insertfirstparent(L,P)
               break;
            case 2  :
               cout << "you choose option 2" << endl;
